@@ -6,5 +6,6 @@ export default defineConfig({
   plugins: [react()],
   server: {
     open: true
-  }
+  },
+  base: '/react-redux-toolkit-exericse/',
 })
