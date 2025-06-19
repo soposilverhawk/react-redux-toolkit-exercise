@@ -7,5 +7,5 @@ export default defineConfig({
   server: {
     open: true
   },
-  base: '/react-redux-toolkit-exericse/',
+  base: '/react-redux-toolkit-exercise/',
 })
